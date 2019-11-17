@@ -44,7 +44,7 @@ body{
 .tekstblok {
     background-color: rgb(255, 0, 0);
     border: 12px solid rgb(145, 145, 145);
-    border-radius: 5px;
+    border-radius: 8px;
     width: 75%;
     margin: 100%;
     padding: 12px;
@@ -74,4 +74,7 @@ div.scrollmenu a:hover {
 
 .yes {
     background: rgb(4, 252, 99)
+}
+#menu {
+    color: rgb(0, 255, 170)
 }
