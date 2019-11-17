@@ -3,14 +3,14 @@ html {
 }
 
 body{
-    background-color: rgb(0, 95, 8);
+    background-color: rgb(255, 0, 0);
     padding: 0;
     margin: 0;
     height: 100%;
 }
 
 #bovenbalk {
-    background-color: rgb(86, 54, 116);
+    background-color: rgb(209, 0, 164);
     text-align: center;
 }
 
@@ -28,21 +28,21 @@ body{
 }
 
 #teksten{
-    background-color: rgb(99, 99, 99);
+    background-color: rgb(97, 0, 0);
     width: 50%;
     height: 100%;
 
 }
 
 #plaatje1{
-    background-color: rgba(145, 145, 145, 0.603);
+    background-color: rgb(160, 160, 160);
     width:50%;
     height: 50%;
 
 }
 
 .tekstblok {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
     border: 12px solid rgb(145, 145, 145);
     border-radius: 5px;
     width: 75%;
@@ -55,14 +55,14 @@ body{
 } 
 
 div.scrollmenu {
-  background-color: rgb(250, 248, 248);
+  background-color: rgb(0, 238, 255);
   overflow: auto;
   white-space: nowrap;
 }
 
 div.scrollmenu a {
   display: inline-block;
-  color: rgb(0, 0, 0);
+  color: rgb(110, 58, 58);
   text-align: center;
   padding: 14px;
   text-decoration: none;
